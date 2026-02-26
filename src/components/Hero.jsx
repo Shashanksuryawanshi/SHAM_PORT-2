@@ -39,7 +39,7 @@ const Hero = () => {
           repeatType: "loop",
           ease: "easeInOut",
         }}
-        className='absolute inset-0 top-[350px] sm:top-[250px] lg:top-[120px] flex justify-center items-center z-0 pointer-events-none'
+        className='absolute inset-0 top-[400px] sm:top-[300px] lg:top-[250px] flex justify-center items-center z-0 pointer-events-none'
       >
         <img
           src={biotechFlask}
