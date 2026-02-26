@@ -47,11 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        I'm a dedicated biotechnology student with a strong foundation in molecular biology, genetics, and bioprocess engineering. I have hands-on experience with laboratory techniques, data analysis, and research methodologies, and I’m passionate about applying scientific knowledge to solve real-world problems in healthcare, agriculture, and environmental sustainability. I’m a quick learner who collaborates effectively with teams and mentors to develop innovative, practical, and impactful biotech solutions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
