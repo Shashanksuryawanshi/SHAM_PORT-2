@@ -1,11 +1,12 @@
 import React from "react";
 import { SectionWrapper } from "../hoc";
-import { SiVisualstudiocode, SiJupyter, SiGooglecolab, SiGithub, SiUbuntu, SiDocker } from "react-icons/si";
+import { SiJupyter, SiGooglecolab, SiGithub, SiUbuntu, SiDocker } from "react-icons/si";
+import { VscVscode } from "react-icons/vsc";
 import { Microscope, FlaskConical, TestTubeDiagonal, Database, TestTubes } from "lucide-react";
 
 // Local tech stack definition to allow for JSX icon components
 const techStack = [
-  { name: "VS Code", icon: <SiVisualstudiocode size={40} className="text-white" /> },
+  { name: "VS Code", icon: <VscVscode size={40} className="text-white" /> },
   { name: "Jupyter", icon: <SiJupyter size={40} className="text-white" /> },
   { name: "Google Colab", icon: <SiGooglecolab size={40} className="text-white" /> },
   { name: "GitHub", icon: <SiGithub size={40} className="text-white" /> },
