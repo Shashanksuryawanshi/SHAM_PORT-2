@@ -139,27 +139,27 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Shambhavi's attention to detail during her QC Microbiology internship was exceptional. Her aseptic handling skills are top-notch.",
+    name: "Dr. Ananya Sharma",
+    designation: "Lab Director",
+    company: "Centrient Pharmaceuticals",
+    image: "https://randomuser.me/api/portraits/women/44.jpg",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "I've rarely seen a biotechnology student with such a strong grasp of both molecular biology and data-driven analysis. Shambhavi is truly a standout.",
+    name: "Prof. Rajesh Kumar",
+    designation: "Head of Biotechnology",
+    company: "University Dept",
+    image: "https://randomuser.me/api/portraits/men/43.jpg",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Her contribution to predictive modeling for healthcare applications was invaluable. Shambhavi brings a unique blend of bio and tech skills to the table.",
+    name: "Dr. Sneha Patel",
+    designation: "Lead Researcher",
+    company: "BioTech Innovations",
+    image: "https://randomuser.me/api/portraits/women/68.jpg",
   },
 ];
 
