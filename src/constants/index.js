@@ -120,55 +120,18 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "QC Microbiology Intern",
+    company_name: "Centrient Pharmaceutical Company",
+    icon: meta, // Using an existing placeholder icon for now, ideally replace with appropriate logo later
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jul 2025 - Aug 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Conducted media preparation and sterilization (MCB, SCDM, Peptone) and operated autoclaves under aseptic conditions, ensuring contamination-free testing.",
+      "Performed water testing, product testing, and environmental monitoring (air, surface, and personnel sampling), following SOPs, GMP, and biosafety protocols.",
+      "Carried out microbial culture inoculations and sterility testing using Bacillus subtilis and other strains, supporting pharmaceutical product quality control.",
+      "Worked in Laminar Air Flow (LAF) benches for aseptic handling and maintained detailed SOP logbooks for media, reagents, and QC activities.",
+      "Gained cross-functional exposure to the Bulk Drug Lab, Raw Material Lab, and Instrumentation Lab, learning analytical techniques including normality checks, moisture analysis, optical rotation, and chromatography methods.",
+      "Strengthened knowledge of quality culture, GMP compliance, and pharmaceutical documentation practices, ensuring reliability in QC processes.",
     ],
   },
 ];
