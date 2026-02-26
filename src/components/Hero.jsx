@@ -1,8 +1,7 @@
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
-import { ComputersCanvas } from "./canvas";
-import { shambhavi } from "../assets";
+import { shambhavi, biotechFlask } from "../assets";
 
 const Hero = () => {
   return (
@@ -31,7 +30,24 @@ const Hero = () => {
         </div>
       </div>
 
-      <ComputersCanvas />
+      <motion.div
+        animate={{
+          y: [0, -15, 0],
+        }}
+        transition={{
+          duration: 3,
+          repeat: Infinity,
+          repeatType: "loop",
+          ease: "easeInOut",
+        }}
+        className='absolute inset-0 top-[350px] sm:top-[250px] lg:top-[120px] flex justify-center items-center z-0 pointer-events-none'
+      >
+        <img
+          src={biotechFlask}
+          alt='biotech-flask'
+          className='w-[300px] sm:w-[500px] h-auto object-contain opacity-80'
+        />
+      </motion.div>
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
