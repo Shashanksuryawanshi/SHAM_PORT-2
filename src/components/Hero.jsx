@@ -25,7 +25,7 @@ const Hero = () => {
               interfaces and web applications
             </p>
           </div>
-          <div className="flex justify-start sm:justify-center items-center mt-5 sm:mt-0 z-10">
+          <div className="flex justify-start sm:justify-center items-start mt-5 sm:-mt-10 md:-mt-20 z-10">
             <img src={shambhavi} alt="profile" className="w-[180px] h-[180px] sm:w-[250px] sm:h-[250px] md:w-[300px] md:h-[300px] object-cover rounded-full border-4 border-[#915EFF] shadow-lg shadow-[#915EFF]/50" />
           </div>
         </div>

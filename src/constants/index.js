@@ -198,67 +198,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Heart Disease Prediction",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Developed a machine learning model to predict the likelihood of heart disease using patient clinical data. Implemented algorithms like Logistic Regression, Random Forest, and KNN using Python & Scikit-learn. Evaluated model performance through precision, recall, F1-score, and ROC-AUC metrics, and built a simple UI for real-time predictions.",
     tags: [
       {
-        name: "react",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "machine-learning",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "scikit-learn",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Shashanksuryawanshi/Heart-Disease-predictor.git",
   },
   {
-    name: "Job IT",
+    name: "Automated Traffic Control",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Designed an automated washroom traffic light system using the 8051 microcontroller. Programmed in assembly language to perform arithmetic, logical, and control operations for accurate signal transitions. Integrated timers and interrupts for real-time control and implemented LED interface to simulate real-world traffic flow.",
     tags: [
       {
-        name: "react",
+        name: "8051",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "assembly",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "electronics",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/shambhavikumari/TrafficControl8051",
   },
   {
-    name: "Trip Guide",
+    name: "QC Microbiology Internship",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Performed environmental monitoring, sterility testing, and microbial culture inoculations at Centrient Pharmaceuticals. Operated autoclaves and Laminar Air Flow (LAF) benches under aseptic conditions. Conducted water and product testing following GMP and biosafety protocols, and maintained SOP logbooks for QC activities.",
     tags: [
       {
-        name: "nextjs",
+        name: "microbiology",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "gmp",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "qc",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "",
   },
 ];
 
